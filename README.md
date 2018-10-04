@@ -1,4 +1,4 @@
-<h1 align="center">The Gorgeous Login</h1>
+<h1 align="center">The Flutter Login</h1>
 
 <h3 align="center">
   
