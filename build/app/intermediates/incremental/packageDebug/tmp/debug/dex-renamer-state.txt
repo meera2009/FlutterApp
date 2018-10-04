@@ -1,0 +1,4 @@
+#Fri Sep 28 12:48:55 IST 2018
+base.0=/Users/admin/Desktop/MEERA/Flutter/TheGorgeousLogin-master/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
